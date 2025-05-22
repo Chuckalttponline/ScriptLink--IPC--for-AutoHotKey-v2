@@ -1,4 +1,4 @@
-```md
+
 # AutoHotkey Multithreading
 
 Thanks to **'Coco'** and **'AHK_user'** who made Object2Str and Str2Object from the AutoHotKey forums.  
