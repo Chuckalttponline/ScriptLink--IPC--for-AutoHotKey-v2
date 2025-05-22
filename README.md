@@ -50,6 +50,3 @@ ScriptLink.threadwait("Name of the thread to wait for", Timeout in seconds)
 
 
 An example is included in the class file.
-```
-
-This README will now look clean, structured, and easy to read when uploaded to GitHub. Let me know if you’d like any modifications! 🚀
