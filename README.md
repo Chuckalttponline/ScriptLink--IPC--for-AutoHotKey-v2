@@ -31,7 +31,7 @@ Esc:: {
 }
 ```
 
-### Thread Synchronization
+### Script Synchronization
 If you need to wait for a thread to be opened because your scripts need to work together without errors when started in any order, use:
 
 ```ahk
