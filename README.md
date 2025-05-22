@@ -1,7 +1,7 @@
 
 # AutoHotkey ScriptLinking
 
-This Class 'ScriptLink' will allow you to call a function from a seperate script and pass any amount of vairables objects and arrays as parameters to that function.
+This Class 'ScriptLink' will allow you to call any function from a seperate script and pass any amount of vairables objects and arrays as parameters to that function.
 the script will not return a return value or string but you can have it call back a function in the script that called it.
 
 
