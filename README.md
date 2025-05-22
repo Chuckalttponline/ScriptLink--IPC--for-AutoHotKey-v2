@@ -1,6 +1,13 @@
 
 # AutoHotkey ScriptLinking
 
+This Class 'ScriptLink' will allow you to call a function from a seperate script and pass any amount of vairables objects and arrays as parameters to that function.
+the script will not return a return value or string but you can have it call back a function in the script that called it.
+
+
+
+
+
 Thanks to **'Coco'** and **'AHK_user'** who made Object2Str and Str2Object from the AutoHotKey forums.  
 > [Source](https://www.autohotkey.com/boards/viewtopic.php?t=111713)  
 I didn't have to do that part myself 😆.
