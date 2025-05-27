@@ -55,7 +55,9 @@ ScriptLink.threadwait("Name of the thread to wait for", Timeout in seconds)
 **A:** Because that defeats the purpose—forcing the script to wait, negating the advantage of using another process.
 
 ### Q: Why can't I pass a GUI to another script?
-**A:** That just doesn’t work... GuiObjects are to complicated.
+**A:** That just doesn’t work... GuiObjects are to complicated to Marshall.
 
 
 An example is included in the class file.
+
+VERSION 2.0 comming soon.
