@@ -1,4 +1,6 @@
 
+#ScriptLink VERSION 1.0
+
 # AutoHotkey ScriptLinking
 
 This Class 'ScriptLink' will allow you to call any function from a seperate script and pass any amount of vairables objects and arrays as parameters to that function.
