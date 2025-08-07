@@ -132,7 +132,7 @@ Class ScriptLink { ; It takes 8-18ms for a call between scripts to come through.
 		Return Temp ? 1 : 0
 	}
 	
-	; Thanks to viv > https://www.autohotkey.com/boards/viewtopic.php?t=115333
+	; Thanks to Lexikos > https://www.autohotkey.com/boards/viewtopic.php?t=115333
 	Static ObjRegisterActive(Object, CLSID, Flags := 0) {
 		static cookieJar := Map()
 		cookie := 0
@@ -153,3 +153,4 @@ Class ScriptLink { ; It takes 8-18ms for a call between scripts to come through.
 		cookieJar[Object] := cookie
 	}
 }
+
